@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\bin\Debug\net8.0\.NET-coin-flip-Logic.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\bin\Debug\net8.0\.NET-coin-flip-Logic.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\bin\Debug\net8.0\.NET-coin-flip-Logic.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\bin\Debug\net8.0\.NET-coin-flip-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\bin\Debug\net8.0\.NET-coin-flip-Logic.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\refint\.NET-coin-flip-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\.NET-coin-flip-Logic.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-coin-flip-Logic\obj\Debug\net8.0\ref\.NET-coin-flip-Logic.dll

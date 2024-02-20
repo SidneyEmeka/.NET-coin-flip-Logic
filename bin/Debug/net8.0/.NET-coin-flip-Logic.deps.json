@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      ".NET-coin-flip-Logic/1.0.0": {
+        "runtime": {
+          ".NET-coin-flip-Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    ".NET-coin-flip-Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
